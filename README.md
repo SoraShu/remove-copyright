@@ -7,7 +7,7 @@
 ## 食用方法
 
 1. 下载Tampermonkey拓展插件。
-2. 点击[链接](remove-copyright.user.js)`目前还是坏的链接`安装脚本。
+2. 点击[链接]([remove-copyright.user.js](https://github.com/SoraShu/remove-copyright/raw/main/remove-copyright.user.js))安装脚本。这个链接指向仓库中文件`remove-copyright.user.js`的raw视图，`*.user.js`会被Tampermonkey识别并自动跳转到安装界面。
 
 ## 支持网站
 
