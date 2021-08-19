@@ -16,3 +16,12 @@
 ## TODO
 
 1. enable copy。某些网页不是有copyright信息，而是不允许复制，有的是连选中都不行(比如某国产游戏的观测枢)，想实现使这些网站能够被复制。~~好像有人写好了，是不是可以用个轮子啥的~~
+
+## 目前支持网站列表
+
+|网站|匹配|
+|:--:|:--:|
+|CSDN|\*://blog.csdn.net/\*/article/details/\*</br>\*://\*.blog.csdn.net/article/details/\*|
+|知乎|\*://www.zhihu.com/\*</br>\*://zhuanlan.zhihu.com/\*|
+|leetcode题解|\*://leetcode-cn.com/problems/\*|
+|bilibili专栏|\*://www.bilibili.com/read/\*|
